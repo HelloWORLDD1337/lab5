@@ -1,0 +1,5 @@
+number;telephone;replied;first_name;last_name;date_next_call;info_next_call
+1;9176663435;True;Dmitry;Ivanov;22.01.20;say hello
+2;9176667775;False;Ivan;Petrov;23.01.20;say goodbye
+3;9176665555;False;Petr;Sidorov;24.01.20;give him info about new tarif
+4;9176665151;True;Gennadiy;Gorin;25.01.20;give him info about new tarif
